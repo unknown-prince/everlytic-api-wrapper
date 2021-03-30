@@ -1,16 +1,16 @@
 {
-    "name": "chencha/everlytic",
+    "name": "dominicarendse/everlytic",
     "description": "Provides a simple and elegant wrapper for the Everlytic Bulk Mail API to enable use within laravel framework",
     "keywords":["everlytic","email","bulk"],
     "authors": [
         {
-            "name": "Chencha Jacob",
-            "email": "jacob@chenchatech.com"
+            "name": "Dominic Arendse",
+            "email": "me@dominicarendse.com"
         }
     ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "4.1.*"
+        "illuminate/support": "^4"
     },
     "autoload": {
         "classmap": [
